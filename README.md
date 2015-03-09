@@ -6,3 +6,5 @@
 4. `parallel_demo.R` has sample parllel R code.
 
 The slides are also in the repo, as a PDF. The slides contain links to more details on many of the packages I use in the demo code.
+
+You can try out Domino at http://www.dominodatalab.com
